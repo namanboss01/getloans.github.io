@@ -1,3 +1,0 @@
-<script>
-  location.href="https://namanboss01.github.io/getloans.github.io/ads.txt"
-</script>
